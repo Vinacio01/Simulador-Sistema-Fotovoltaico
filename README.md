@@ -47,5 +47,11 @@ Simulador-Sistema-Fotovoltaico/
 ```bash
 git clone https://github.com/Vinicius01/Simulador-Solar-Fotovoltaico.git
 cd Simulador-Solar-Fotovoltaico
+pip install -r requirements.txt
+streamlit run app/ui_streamlit.py
+```
 
+## Imagens do Projeto
 
+![Imagem 1](assets/imagem1.png)
+![Imagem 2](assets/imagem2.png)
