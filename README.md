@@ -53,5 +53,5 @@ streamlit run app/ui_streamlit.py
 
 ## Imagens do Projeto
 
-![Imagem 1](assets/imagem1.png)
-![Imagem 2](assets/imagem2.png)
+![Imagem 1](assent/imagem1.png)
+![Imagem 2](assent/imagem2.png)
