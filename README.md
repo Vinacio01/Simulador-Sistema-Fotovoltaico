@@ -21,12 +21,13 @@ O objetivo é calcular:
 ---
 
 ## Estrutura do Projeto
+```
 Simulador-Sistema-Fotovoltaico/
 ├─ app/ # Interface web e gráficos
 │ ├─ plots/ # Gráficos gerados automaticamente
 │ └─ ui_streamlit.py # Interface web Streamlit
 ├─ core/ # Lógica e cálculos
-│ ├─ init.py
+│ ├─ __init__.py
 │ ├─ calculations.py # Cálculos do sistema
 │ └─ utils.py # Consultas à API NASA POWER
 ├─ data - clima/
@@ -34,6 +35,8 @@ Simulador-Sistema-Fotovoltaico/
 ├─ main.py # Execução em terminal (opcional)
 ├─ requirements.txt # Dependências
 └─ README.md # Este arquivo
+```
+
 
 ---
 
