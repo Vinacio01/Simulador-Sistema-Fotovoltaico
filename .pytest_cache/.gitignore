@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.png
+*.pdf
+env/
+.venv/
+.devcontainer/
+pytest_cache/
+app/plots/

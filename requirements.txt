@@ -1,0 +1,4 @@
+treamlit==1.29.0
+plotly==5.16.0
+fpdf2==2.6.1
+requests==2.31.0
